@@ -188,7 +188,7 @@ Menampilkan:
 - Online Security dan Tech Support gaps
 - Profil segmen `Critical Risk` dan `High Risk`
 
-[View Interactive Dashboard on Tableau Public](TABLEAU_PUBLIC_URL)
+[View Interactive Dashboard on Tableau Public](https://public.tableau.com/app/profile/muhammad.jundullah3944/viz/CustomerChurnAnalysis_17911018556860/ChurnOverview?publish=yes)
 
 ![Customer Retention Priorities Dashboard](images/tableau_retention_priorities.png)
 
@@ -301,4 +301,4 @@ Jalankan seluruh cell secara berurutan dari awal sampai akhir.
 - [Customer Churn Analysis Notebook](notebooks/customer-churn-analysis.ipynb)
 - [Processed Dataset](data/processed/telco_churn_clean.csv)
 - [Tableau Packaged Workbook](tableau/Customer%20Churn%20Analysis.twbx)
-- [Interactive Tableau Dashboard](TABLEAU_PUBLIC_URL)
+- [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/muhammad.jundullah3944/viz/CustomerChurnAnalysis_17911018556860/ChurnOverview?publish=yes)
